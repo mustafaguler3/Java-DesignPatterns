@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CorePatterns/CorePatterns.iml" filepath="$PROJECT_DIR$/CorePatterns/CorePatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/Java-DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/CorePatterns/Singleton.iml" filepath="$PROJECT_DIR$/CorePatterns/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" filepath="$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" />
     </modules>
   </component>
 </project>
