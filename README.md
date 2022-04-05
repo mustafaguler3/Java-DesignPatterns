@@ -6,12 +6,16 @@
 -Abstract Factory
 -Builder
 -Prototype
+
+
 ***Structural Patterns**
 -Adapter
 -Bridge
 -Flyweight
 -Decorator
 -Proxy
+
+
 ***Behavioral Patterns**
 -Command
 -Interpreter
